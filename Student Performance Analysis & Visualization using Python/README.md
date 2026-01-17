@@ -74,3 +74,7 @@ The project generates a 2×2 Matplotlib dashboard:
 • Understanding of Matplotlib subplots and layouts
 • Ability to derive insights from raw data
 • Improved data analysis and visualization skills
+
+👤 Author
+Kiran Patil
+
