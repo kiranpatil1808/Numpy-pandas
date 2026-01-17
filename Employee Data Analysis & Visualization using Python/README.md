@@ -78,3 +78,7 @@ Run the script
 
 This project showcases essential data analysis and visualization skills using Python.
 It is a strong foundation project suitable for college submissions, GitHub portfolios, and entry-level data analyst roles.
+
+👤 Author
+Kiran Patil
+
